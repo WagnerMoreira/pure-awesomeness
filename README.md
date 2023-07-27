@@ -167,7 +167,6 @@
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 - [Programmers Introduction to Mathematics](https://github.com/pim-book/programmers-introduction-to-mathematics)
 - [Learning JSDP](https://github.com/addyosmani/learning-jsdp)
-
 - [Free Code Camp](https://github.com/freeCodeCamp/freeCodeCamp)
 - [Teach Yourself CS](https://github.com/teachyourselfcs/teachyourselfcs)
 - [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
