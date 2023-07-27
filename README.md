@@ -1,75 +1,216 @@
-# pure-awesomeness
+# Pure Awesomeness
 
-## UI
-- [shadcn-ui](https://github.com/shadcn-ui/ui) - A UI library.
+## UI Libraries
+
+- [Shadcn-UI](https://github.com/shadcn-ui/ui)
 
 ## Utilities
-- [zod](https://github.com/colinhacks/zod) - A JavaScript library for schema declaration and validation.
-- [astexplorer](https://github.com/fkling/astexplorer) - An online tool to explore the AST (Abstract Syntax Tree) of your JavaScript code.
-- [crunker](https://github.com/jaggad/crunker) - A simple JavaScript library for merging and exporting audio files.
-- [mkcert](https://github.com/FiloSottile/mkcert) - A tool to generate locally-trusted development certificates.
-- [Anime4K](https://github.com/bloc97/Anime4K) - A high-quality real-time anime upscaling algorithm.
 
-## Brasil
-- [Made in Brazil](https://github.com/collections/made-in-brazil) - A collection of projects built by Brazilian developers.
-- [Github Brasil](https://github.com/github/brasil) - Official GitHub resources for Brazilian developers.
+- [Zod](https://github.com/colinhacks/zod)
+- [ASTExplorer](https://github.com/fkling/astexplorer)
+- [Crunker](https://github.com/jaggad/crunker)
+- [Mkcert](https://github.com/FiloSottile/mkcert)
+- [Anime4K](https://github.com/bloc97/Anime4K)
 
-## Stack
-- [Epic Stack](https://github.com/epicweb-dev/epic-stack) - Full-stack JavaScript/TypeScript framework, built on Next.js, Prisma, Apollo Client, and Nexus.
-- [Database-js](https://github.com/planetscale/database-js) - Universal database layer for Node.js.
+## Made in Brazil
+
+- [Made in Brazil Collection](https://github.com/collections/made-in-brazil)
+- [Github Brazil](https://github.com/github/brasil)
+- [Ciencia da Computacao](https://github.com/Universidade-Livre/ciencia-da-computacao)
+- [Aprenda Computer Science](https://github.com/universidade-livre/computer-science)
+- [Aprenda Frontend](https://github.com/kvnol/aprenda-frontend)
+
+## Full Stack Development
+
+- [Epic Stack](https://github.com/epicweb-dev/epic-stack)
+
+## Database Tools
+
+- [Planetscale Database JS](https://github.com/planetscale/database-js)
+- [Prisma](https://github.com/prisma/prisma)
+- [Drizzle](https://github.com/drizzle-team/drizzle-orm)
 
 ## Visual Effects
-- [Realism Effects](https://github.com/0beqz/realism-effects) - A collection of hyper-realistic visual effects.
 
-## AI/LLM's
-- [LocalGPT](https://github.com/PromtEngineer/localGPT) - A local version of GPT model.
-- [Kaguya](https://github.com/ykdojo/kaguya) - A project related to artificial intelligence.
+- [Realism Effects](https://github.com/0beqz/realism-effects)
 
-## Other Awesome Lists, because one awesome list must link to another
-- [Awesome for beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
-- [Awesome Privacy](https://github.com/Lissy93/awesome-privacy) - A collection of awesome software, services, and resources for protecting your privacy.
-- [Awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists.
-- [Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - A list of cheatsheets for various programming languages.
-- [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns) - A collection of design patterns and idioms in different programming languages.
+## AI and Language Models
+
+- [LocalGPT](https://github.com/PromtEngineer/localGPT)
+- [Kaguya](https://github.com/ykdojo/kaguya)
+
+## Awesome Lists
+
+- [Awesome for Beginners](https://github.com/MunGell/awesome-for-beginners)
+- [Awesome Privacy](https://github.com/Lissy93/awesome-privacy)
+- [Awesome](https://github.com/sindresorhus/awesome)
+- [Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
+- [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
 
 ## Styleguides
-- [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - A mostly reasonable approach to JavaScript by Airbnb.
 
-## Cheatsheets
-- [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - A collection of cool hidden and not-so-hidden features of Git and GitHub.
-- [React TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript.
+- [Airbnb Javascript](https://github.com/airbnb/javascript)
+- [Idiomatic.js](https://github.com/rwaldron/idiomatic.js)
 
-## Design
-- [Awesome Design](https://github.com/gztchan/awesome-design) - A collection of the best resources for design.
+## Promise Libraries
 
-## Testing
-- [Headless Recorder](https://github.com/checkly/headless-recorder) - Chrome extension to record browser interaction and generates Puppeteer & Playwright code.
+- [Promise](https://github.com/then/promise)
 
-## Learning
-- [Learn Regex](https://github.com/ziishaned/learn-regex) - The easiest way to learn Regular Expression.
-- [React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap) - Guide on becoming a modern frontend developer.
+## Algorithm and Data Structures
 
-## Practice
-- [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) - A collection of tutorials to build your own technology from scratch.
+- [Javascript Algorithms](https://github.com/trekhleb/javascript-algorithms)
 
+## Self Hosting
 
-## Interviews
-- [Interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
-- [JavaScript Interview Questions](https://github.com/sudheerj/javascript-interview-questions)
+- [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 
-## Jobs
-- [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources.
-- [Remote Jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies in tech.
+## Command Line Tools
 
-## Layout
-- [Yoga](https://github.com/facebook/yoga) - A cross-platform layout engine by Facebook.
+- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 
-## Productivity
-- [My Mac](https://github.com/nikitavoloboev/my-mac) - A list of applications, software and hardware setup, and configuration for Mac OS.
+## Developer Resources
+
+- [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
+- [Free for Dev](https://github.com/ripienaar/free-for-dev)
+- [Open Source Mac OS Apps](https://github.com/serhii-londar/open-source-mac-os-apps)
+- [Best Websites a Programmer Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+
+## JavaScript Concepts
+
+- [33 JS Concepts](https://github.com/leonardomso/33-js-concepts)
+
+## Node.js
+
+- [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs)
+- [Node Best Practices](https://github.com/goldbergyoni/nodebestpractices)
+
+## Algorithm Visualization
+
+- [Algorithm Visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
+
+## Web and Networking
+
+- [What Happens When](https://github.com/alex/what-happens-when)
+
+## Cheatsheets and Quick References
+
+- [Cheat.sh](https://github.com/chubin/cheat.sh#visual-studio-code)
+- [Github Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
+- [React TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react)
+
+## TypeScript
+
+- [React Redux TypeScript Guide](https://github.com/piotrwitek/react-redux-typescript-guide)
+- [Type Challenges](https://github.com/type-challenges/type-challenges)
+
+## Search Engineering Guides
+
+- [OG Search Engineering](https://github.com/open-guides/og-search-engineering)
+
+## Shell Scripting
+
+- [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible)
+
+## Documentation Tools
+
+- [500 Lines](https://github.com/aosabook/500lines)
+- [Slate](https://github.com/slatedocs/slate)
+- [Docz](https://github.com/doczjs/docz
+
+## Security Guides
+
+- [Security Guide for Developers](https://github.com/FallibleInc/security-guide-for-developers)
+
+## Functional Programming
+
+- [Mostly Adequate Guide](https://github.com/MostlyAdequate/mostly-adequate-guide)
+- [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
+
+## Web Performance
+
+- [Front End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
+
+## Visualizations Libraries
+
+- [Blessed Contrib](https://github.com/yaronn/blessed-contrib)
+
+## Personal Dashboard
+
+- [WTFUtil](https://github.com/wtfutil/wtf)
+
+## Personal Assistants
+
+- [Leon](https://github.com/leon-ai/leon)
+
+## AWS Guides
+
+- [OG AWS](https://github.com/open-guides/og-aws)
+
+## Design Resources
+
+- [Awesome Design](https://github.com/gztchan/awesome-design)
+
+## Testing Tools
+
+- [Headless Recorder](https://github.com/checkly/headless-recorder)
+
+## Learning Paths
+
+- [React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap)
+- [Open Source CS](https://github.com/ForrestKnight/open-source-cs)
+- [Spellbook of Modern Webdev](https://github.com/dexteryy/spellbook-of-modern-webdev)
+- [Game Programmer](https://github.com/miloyip/game-programmer)
+- [Project Based Learning](https://github.com/practical-tutorials/project-based-learning)
+- [OSSU Computer Science](https://github.com/ossu/computer-science)
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+- [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
+- [Programmers Introduction to Mathematics](https://github.com/pim-book/programmers-introduction-to-mathematics)
+- [Learning JSDP](https://github.com/addyosmani/learning-jsdp)
+
+- [Free Code Camp](https://github.com/freeCodeCamp/freeCodeCamp)
+- [Teach Yourself CS](https://github.com/teachyourselfcs/teachyourselfcs)
+- [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+
+## CSS Resources
+
+- [CSS Protips](https://github.com/AllThingsSmitty/css-protips)
+
+## Shell Scripting
+
+- https://github.com/dylanaraps/pure-bash-bible
+
+## Interview Preparation
+
+- [interviews](https://github.com/kdn251/interviews)
+- [javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions)
+- [Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
+- [frontend-challenges](https://github.com/felipefialho/frontend-challenges)
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university)
+- [system-design-primer](https://github.com/donnemartin/system-design-primer)
+- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+- [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)
+- [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)
+- [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
+- [reverse-interview](https://github.com/viraptor/reverse-interview)
+- [javascript-questions](https://github.com/lydiahallie/javascript-questions)
+- [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
+
+## Job Resources
+
+- [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
+- [remote-jobs](https://github.com/remoteintech/remote-jobs)
+- [hiring-without-whiteboards](https://github.com/cassidoo/hiring-without-whiteboards)
+
+## Layout Engines
+
+- [yoga](https://github.com/facebook/yoga)
+
+## Productivity Tools
+
+- [my-mac](https://github.com/nikitavoloboev/my-mac)
 
 ## Themes
-- [Fairyfloss](https://vscodethemes.com/e/nopjmp.fairyfloss/fairyfloss) - VSCode Theme
-- [Shades of Purple](https://vscodethemes.com/e/ahmadawais.shades-of-purple/shades-of-purple) - VSCode Theme
 
-## VSCode Extensions
-- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - VSCode Extension that helps you create more human-friendly comments.
+- [fairyfloss](https://vscodethemes.com/e/nopjmp.fairyfloss/fairyfloss)
+- [shades of purple](https://vscodethemes.com/e/ahmadawais.shades-of-purple/shades-of-purple)
