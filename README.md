@@ -74,6 +74,7 @@
 - [Free for Dev](https://github.com/ripienaar/free-for-dev)
 - [Open Source Mac OS Apps](https://github.com/serhii-londar/open-source-mac-os-apps)
 - [Best Websites a Programmer Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+- [Learn Anything](https://learn-anything.xyz)
 
 ## JavaScript Concepts
 
