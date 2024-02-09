@@ -76,6 +76,11 @@
 - [Best Websites a Programmer Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 - [Learn Anything](https://learn-anything.xyz)
 
+
+## Practice
+
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#javascript)
+
 ## JavaScript Concepts
 
 - [33 JS Concepts](https://github.com/leonardomso/33-js-concepts)
